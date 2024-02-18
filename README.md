@@ -1,4 +1,4 @@
-### QR-сode Generator
+### QR-code Generator App
 
 ![QR-Generator](https://github.com/Melyfr/qr-generator/assets/72978278/6f4e3421-a253-474c-ad38-5900ce057da2)
 <div>
@@ -11,7 +11,7 @@
 
 ### О проекте:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Приложение для генерации QR-кодов из текста с использованием библиотеки "qrcode", оформленное и анимированное в виде принтера с консольным окном. Интерфейс приложения адаптирован для различных размеров экрана.
 #
 
 ### Быстрый запуск:
